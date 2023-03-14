@@ -1,5 +1,5 @@
 # java-pattern
-### Create programme for the given pattern:
+### .1.Create programme for the given pattern:
 ````
 *****
 *****
@@ -25,7 +25,7 @@ public class Squarepattern {
 }
 ````
 ![1](https://user-images.githubusercontent.com/93587823/224885625-9691cdd7-edb0-4ef6-98cd-f309627894ff.png)
-### Create programme for the given pattern:
+### 2.Create programme for the given pattern:
 ```
 *********
  *******
@@ -55,7 +55,7 @@ public class Inverted
 }
 ````
 ![2](https://user-images.githubusercontent.com/93587823/224885678-a39919f0-6961-4d31-994d-18fcd6b24b86.png)
-### Create programme for the given pattern:
+### 3.Create programme for the given pattern:
 ````
 *
 **
